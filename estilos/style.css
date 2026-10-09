@@ -29,7 +29,7 @@ section#login{
     position: absolute;
     top: 50%;
     left: 50%;
-    transform:translate(-50%, -50%);
+   transform: translate(-50%,-50%);
     overflow: hidden;
 
     background-color: white;
@@ -42,8 +42,8 @@ section#login{
 section#login > div#imagem{
     display: block;
     background: #5f2c82 url(../imagens/pexels-scottwebb-139198\ \(1\).jpg)no-repeat;
-    background-position: left bottom;
     background-size: cover;
+    background-position: left bottom;
     height: 200px;
 }
 
